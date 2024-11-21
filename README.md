@@ -1,6 +1,3 @@
-# IMPORTANT: TO ADD DATA TO FILE USE path + cls.CSV_FILE if you wish to change the path. Else just give path =""
-# Here path has been used to create the csv file in a specific location as per desire
-'''
 OVERVIEW-
     1. Track and log your transactions
     2. Organize them
@@ -14,3 +11,5 @@ OVERVIEW-
 MODULES USED- 
     1. MATPLOTLIB: Useful for plotting and seeing the graph
     2. PANDAS: Categorize and search for data within the CSV file
+# IMPORTANT: TO ADD DATA TO FILE USE path + cls.CSV_FILE if you wish to change the path. Else just give path =""
+# Here path has been used to create the csv file in a specific location as per desire
